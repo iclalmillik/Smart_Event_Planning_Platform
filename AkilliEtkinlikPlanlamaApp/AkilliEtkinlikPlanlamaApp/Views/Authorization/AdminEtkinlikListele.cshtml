@@ -1,0 +1,56 @@
+﻿@model IEnumerable<AkilliEtkinlikPlanlamaApp.Models.Entities.Etkinlikler>
+
+@{
+    Layout = "~/Views/Authorization/AdminSidebar.cshtml";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Admin - Etkinlik Listesi</h2>
+    @if (Model.Any())
+    {
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Etkinlik Adı</th>
+                    <th>Kategori</th>
+                    <th>Tarih</th>
+                    <th>Konum</th>
+                    <th>Oluşturan Kullanıcı</th>
+                    <th>Aksiyon</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var etkinlik in Model)
+                {
+                    <tr>
+                        <td>@etkinlik.ID</td>
+                        <td>@etkinlik.EtkinlikAdi</td>
+                        <td>@etkinlik.Kategori</td>
+                        <td>@etkinlik.Tarih.ToShortDateString()</td>
+                        <td>@etkinlik.Konum</td>
+                        <td>@etkinlik.Kullanici?.Ad @etkinlik.Kullanici?.Soyad</td>
+                        <td>
+                            <a href="@Url.Action("AdminEtkinlikDuzenle", "Authorization", new { id = etkinlik.ID })" class="btn btn-warning btn-sm">Düzenle</a>
+                            <form asp-action="AdminEtkinlikSil" asp-controller="Authorization" method="post" style="display:inline;">
+                                <input type="hidden" name="id" value="@etkinlik.ID" />
+                                <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p class="text-center text-danger">Hiç etkinlik bulunamadı.</p>
+    }
+</div>

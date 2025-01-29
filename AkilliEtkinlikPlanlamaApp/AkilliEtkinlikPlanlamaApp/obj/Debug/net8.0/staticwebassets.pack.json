@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AkilliEtkinlikPlanlamaApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AkilliEtkinlikPlanlamaApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\02c0fd0b-5af2-4947-9b92-d89ec2cae997_Ekran görüntüsü 2024-11-29 174210.png",
+      "PackagePath": "staticwebassets\\uploads\\02c0fd0b-5af2-4947-9b92-d89ec2cae997_Ekran görüntüsü 2024-11-29 174210.png"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\05dafd07-ca99-46d1-828a-e9dc595be666_b3b3d92d-c73f-4fcd-a2a6-a4ee600de4f2.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\05dafd07-ca99-46d1-828a-e9dc595be666_b3b3d92d-c73f-4fcd-a2a6-a4ee600de4f2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\06033f05-e71e-441f-afa1-7c2d69bc1507_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\06033f05-e71e-441f-afa1-7c2d69bc1507_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\08116b34-456f-488f-aec4-2c7e2f14af0e_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\08116b34-456f-488f-aec4-2c7e2f14af0e_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\17939f1c-b4e2-4077-af9b-4f95c7862b78_Ekran görüntüsü 2024-11-29 174210.png",
+      "PackagePath": "staticwebassets\\uploads\\17939f1c-b4e2-4077-af9b-4f95c7862b78_Ekran görüntüsü 2024-11-29 174210.png"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\19ee60fb-52ad-4a5f-a36e-4e8eeee3d749_Bozalan Tepe Kızılcahamam Anadolu'da Doğa Yürüyüşü….jpeg",
+      "PackagePath": "staticwebassets\\uploads\\19ee60fb-52ad-4a5f-a36e-4e8eeee3d749_Bozalan Tepe Kızılcahamam Anadolu'da Doğa Yürüyüşü….jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\1dc15028-7662-4579-92dc-5172a068fb3a_Ekran görüntüsü 2024-11-29 175301.png",
+      "PackagePath": "staticwebassets\\uploads\\1dc15028-7662-4579-92dc-5172a068fb3a_Ekran görüntüsü 2024-11-29 175301.png"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\2420afaf-717e-4942-bcfa-3e64f5fe7e90_flowchart (4).png",
+      "PackagePath": "staticwebassets\\uploads\\2420afaf-717e-4942-bcfa-3e64f5fe7e90_flowchart (4).png"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\357354db-c8e5-4c37-b578-f0a1d2fd4f47_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\357354db-c8e5-4c37-b578-f0a1d2fd4f47_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\381e7f18-44e3-4942-a859-446621afed12_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\381e7f18-44e3-4942-a859-446621afed12_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\386c1e72-4b57-4ada-a4c6-53e7ced3bb0c_54c0b234f35a51b0fa6e831765198c2d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\386c1e72-4b57-4ada-a4c6-53e7ced3bb0c_54c0b234f35a51b0fa6e831765198c2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\3a66690c-7d0b-4bbd-8053-6069b92a0ab5_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3a66690c-7d0b-4bbd-8053-6069b92a0ab5_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\3c2763a9-76a6-4044-bf5f-f76fb3f227aa_460b09c8-6bc2-4335-bb04-ee5ab23c339c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\3c2763a9-76a6-4044-bf5f-f76fb3f227aa_460b09c8-6bc2-4335-bb04-ee5ab23c339c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\3c656c80-e79a-4e59-9422-a358991a132e_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3c656c80-e79a-4e59-9422-a358991a132e_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\3cd9ea1a-533c-4c3f-b52a-b137b6b240d9_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3cd9ea1a-533c-4c3f-b52a-b137b6b240d9_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\4577a7bd-27c9-43e5-9bf7-3a7ab5edd1d3_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4577a7bd-27c9-43e5-9bf7-3a7ab5edd1d3_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\47017a14-de88-4ff2-b1e8-efa2d29f4199_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\47017a14-de88-4ff2-b1e8-efa2d29f4199_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\483ca193-3b28-430e-9601-859341e74643_Funciones de San Valentín en los autocinemas de CDMX.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\483ca193-3b28-430e-9601-859341e74643_Funciones de San Valentín en los autocinemas de CDMX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\496bc944-f30c-4a3b-96bf-9510046c7a27_Ekran görüntüsü 2024-11-29 175301.png",
+      "PackagePath": "staticwebassets\\uploads\\496bc944-f30c-4a3b-96bf-9510046c7a27_Ekran görüntüsü 2024-11-29 175301.png"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\53a2ea09-53fd-4630-98c9-6487bc3b5104_Funciones de San Valentín en los autocinemas de CDMX.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\53a2ea09-53fd-4630-98c9-6487bc3b5104_Funciones de San Valentín en los autocinemas de CDMX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\55a8042d-3755-4395-a983-1dc6948ab73d_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\55a8042d-3755-4395-a983-1dc6948ab73d_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\5e619d35-46ad-4243-8e41-a45b0c72ddeb_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5e619d35-46ad-4243-8e41-a45b0c72ddeb_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\5f0a619f-1e5f-4d0a-9857-487440bffeb2_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5f0a619f-1e5f-4d0a-9857-487440bffeb2_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\681f9ccc-e563-496d-815c-fdd29fa8434b_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\681f9ccc-e563-496d-815c-fdd29fa8434b_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\6973e244-6503-4618-8b9b-c9e51bbbc098_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6973e244-6503-4618-8b9b-c9e51bbbc098_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\6dd8898e-c9fc-4be5-b2bf-95ad981f1af8_54c0b234f35a51b0fa6e831765198c2d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6dd8898e-c9fc-4be5-b2bf-95ad981f1af8_54c0b234f35a51b0fa6e831765198c2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\705745bb-edf0-40bd-aa00-c15201e4a959_1758d12fbcbf30ed76ce5a12b719135a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\705745bb-edf0-40bd-aa00-c15201e4a959_1758d12fbcbf30ed76ce5a12b719135a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\74b3f6ab-f1a9-4477-aad8-b9560606146c_b3b3d92d-c73f-4fcd-a2a6-a4ee600de4f2.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\74b3f6ab-f1a9-4477-aad8-b9560606146c_b3b3d92d-c73f-4fcd-a2a6-a4ee600de4f2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\79237b28-5dbe-4211-97fd-a275d2708f4c_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\79237b28-5dbe-4211-97fd-a275d2708f4c_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\7d08e4dc-2e91-46be-824a-834fc4154dc7_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\7d08e4dc-2e91-46be-824a-834fc4154dc7_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\83727665-30b1-43c4-afd2-9b639ab1b287_Funciones de San Valentín en los autocinemas de CDMX.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\83727665-30b1-43c4-afd2-9b639ab1b287_Funciones de San Valentín en los autocinemas de CDMX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\8b7d7328-30af-4d03-b8dd-7cbedcff22a5_Ekran görüntüsü 2024-11-29 231325.png",
+      "PackagePath": "staticwebassets\\uploads\\8b7d7328-30af-4d03-b8dd-7cbedcff22a5_Ekran görüntüsü 2024-11-29 231325.png"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\8e02c879-9e96-4537-bc00-12735351caa7_Ekran görüntüsü 2024-11-29 231325.png",
+      "PackagePath": "staticwebassets\\uploads\\8e02c879-9e96-4537-bc00-12735351caa7_Ekran görüntüsü 2024-11-29 231325.png"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\9136e1c3-49b9-49cb-91a3-1fb2b62032c6_Funciones de San Valentín en los autocinemas de CDMX.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\9136e1c3-49b9-49cb-91a3-1fb2b62032c6_Funciones de San Valentín en los autocinemas de CDMX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\937d5e84-7ed8-43af-bd06-eb65190b23dc_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\937d5e84-7ed8-43af-bd06-eb65190b23dc_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\9803c255-2643-49ff-add8-48be101ffe27_WhatsApp Görsel 2024-02-03 saat 23.27.02_b08cd794.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9803c255-2643-49ff-add8-48be101ffe27_WhatsApp Görsel 2024-02-03 saat 23.27.02_b08cd794.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\9cd0e6a3-e418-400b-936e-5d09255e50ec_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9cd0e6a3-e418-400b-936e-5d09255e50ec_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\a1f5f5f1-f45f-4a72-81be-829e9fc0613c_54c0b234f35a51b0fa6e831765198c2d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a1f5f5f1-f45f-4a72-81be-829e9fc0613c_54c0b234f35a51b0fa6e831765198c2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\a3ed0457-16ca-4fcf-9e21-a9caa71ad515_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a3ed0457-16ca-4fcf-9e21-a9caa71ad515_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\a47cc107-adda-4421-8215-8b1209ae6c5d_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a47cc107-adda-4421-8215-8b1209ae6c5d_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\a9e1ab95-d01a-485b-b24e-ad5c5117ed9b_20230115_230716.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a9e1ab95-d01a-485b-b24e-ad5c5117ed9b_20230115_230716.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\ad8cda44-21ce-46fb-8d1d-758c2700910c_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ad8cda44-21ce-46fb-8d1d-758c2700910c_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\b0e5b14a-0b3c-48b6-a754-a9c1c36b5863_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b0e5b14a-0b3c-48b6-a754-a9c1c36b5863_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\b61be31f-ed91-4197-9f21-7a1739c64cdb_WhatsApp Görsel 2024-02-03 saat 23.27.02_b08cd794.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b61be31f-ed91-4197-9f21-7a1739c64cdb_WhatsApp Görsel 2024-02-03 saat 23.27.02_b08cd794.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\be58989e-22c7-4a25-81da-77617b4703c9_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\be58989e-22c7-4a25-81da-77617b4703c9_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\ca4e5abd-5524-4d9f-b9ed-f6ecb75af084_35×50 kağıt üzerine sulu boya çalışmam.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ca4e5abd-5524-4d9f-b9ed-f6ecb75af084_35×50 kağıt üzerine sulu boya çalışmam.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\ca5592c1-7eae-45a5-9f41-3e30b34a1ecb_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ca5592c1-7eae-45a5-9f41-3e30b34a1ecb_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\cf2b9072-164f-40c9-879c-ed0f7f233036_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cf2b9072-164f-40c9-879c-ed0f7f233036_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\d274d515-ca44-495b-b9a6-64c445417fd2_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d274d515-ca44-495b-b9a6-64c445417fd2_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\d5e4c139-0222-4d6b-87ff-585ba0fea6f6_Funciones de San Valentín en los autocinemas de CDMX.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\d5e4c139-0222-4d6b-87ff-585ba0fea6f6_Funciones de San Valentín en los autocinemas de CDMX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\d92309bf-0c85-44ab-90f8-79bc87a5d285_20230330_142453.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d92309bf-0c85-44ab-90f8-79bc87a5d285_20230330_142453.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\dc019075-ff18-474b-beab-414afb557cf8_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\dc019075-ff18-474b-beab-414afb557cf8_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\e0d42628-1d00-4769-8225-b45525951220_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e0d42628-1d00-4769-8225-b45525951220_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\e1b73b4a-d6bb-4b5e-af15-5482303ef2cb_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e1b73b4a-d6bb-4b5e-af15-5482303ef2cb_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\e518dbb6-118c-48ed-a96e-61826de251a0_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e518dbb6-118c-48ed-a96e-61826de251a0_cc1befcb-5bb3-4504-a188-58c353a972b3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\e630e011-5bfa-4a0d-999e-3df61441ea81_Funciones de San Valentín en los autocinemas de CDMX.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e630e011-5bfa-4a0d-999e-3df61441ea81_Funciones de San Valentín en los autocinemas de CDMX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\e984b260-7c69-4b62-aa83-4defc090e450_WIN_20240125_18_43_00_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e984b260-7c69-4b62-aa83-4defc090e450_WIN_20240125_18_43_00_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\ead6f47f-0da9-4954-85e4-660f9945923a_Bozalan Tepe Kızılcahamam Anadolu'da Doğa Yürüyüşü….jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ead6f47f-0da9-4954-85e4-660f9945923a_Bozalan Tepe Kızılcahamam Anadolu'da Doğa Yürüyüşü….jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\eec40b04-467e-4958-9eff-cd9079dc9a0d_20230224_124535.jpg",
+      "PackagePath": "staticwebassets\\uploads\\eec40b04-467e-4958-9eff-cd9079dc9a0d_20230224_124535.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\ef2a8caf-9b51-459d-852c-920bdab3ea35_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ef2a8caf-9b51-459d-852c-920bdab3ea35_WhatsApp Görsel 2023-09-28 saat 12.05.41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icllm\\Desktop\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\wwwroot\\uploads\\fdfd77bd-e948-40ae-93a0-3eccb509ddb0_WIN_20240826_13_31_46_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fdfd77bd-e948-40ae-93a0-3eccb509ddb0_WIN_20240826_13_31_46_Pro.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AkilliEtkinlikPlanlamaApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AkilliEtkinlikPlanlamaApp.props",
+      "PackagePath": "build\\AkilliEtkinlikPlanlamaApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AkilliEtkinlikPlanlamaApp.props",
+      "PackagePath": "buildMultiTargeting\\AkilliEtkinlikPlanlamaApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AkilliEtkinlikPlanlamaApp.props",
+      "PackagePath": "buildTransitive\\AkilliEtkinlikPlanlamaApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

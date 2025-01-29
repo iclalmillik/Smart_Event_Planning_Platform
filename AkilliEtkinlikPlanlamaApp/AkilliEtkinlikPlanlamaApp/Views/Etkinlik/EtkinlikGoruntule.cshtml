@@ -1,0 +1,79 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Kullanıcı/Sidebar.cshtml";
+    var currentUserEmail = User.Identity.Name; // Giriş yapan kullanıcının e-posta adresi
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+@model IEnumerable<AkilliEtkinlikPlanlamaApp.Models.Entities.Etkinlikler>
+
+    <style>
+    .card {
+        border-radius: 15px;
+        overflow: hidden;
+    }
+    .card img {
+        border-bottom: 1px solid #ddd;
+    }
+    .card h5 {
+        font-weight: bold;
+        color: #333;
+    }
+    .card p {
+        color: #555;
+    }
+</style>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Etkinlikler</h2>
+    <div class="row">
+        @foreach (var etkinlik in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm">
+                    @if (!string.IsNullOrEmpty(etkinlik.EtkinlikFotoYolu))
+                    {
+                        <img src="@etkinlik.EtkinlikFotoYolu" alt="Etkinlik Fotoğrafı" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" class="img-thumbnail" />
+                    }
+                    else
+                    {
+                        <p>Etkinlik fotoğrafı yüklenmedi.</p>
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@etkinlik.EtkinlikAdi</h5>
+                        <p class="card-text">
+                            <strong>Kategori:</strong> @etkinlik.Kategori<br>
+                            <strong>Tarih:</strong> @etkinlik.Tarih.ToShortDateString()<br>
+                            <strong>Saat:</strong> @etkinlik.Saat<br>
+                            <strong>Konum:</strong> @etkinlik.Konum<br>
+                            <strong>Açıklama:</strong> @etkinlik.Aciklama
+                        </p>
+                        @if (etkinlik.Kullanici.Email == currentUserEmail) // Kullanıcı kontrolü
+                        {
+                            <a asp-action="EtkinlikDuzenle" asp-controller="Etkinlik" asp-route-id="@etkinlik.ID" class="btn btn-warning btn-sm">Düzenle</a>
+                          
+                            <form asp-action="EtkinlikSil" asp-controller="Etkinlik" asp-route-id="@etkinlik.ID" method="post" class="d-inline">
+                                <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                            </form>
+                        }
+                        <form asp-action="Katil" asp-controller="Etkinlik" method="post" class="d-inline">
+                            <input type="hidden" name="etkinlikId" value="@etkinlik.ID" />
+                            <button type="submit" class="btn btn-success btn-sm">Katıl</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

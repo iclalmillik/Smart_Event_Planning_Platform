@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AkilliEtkinlikPlanlamaApp
+build_property.RootNamespace = AkilliEtkinlikPlanlamaApp
+build_property.ProjectDir = D:\Repos\AkilliEtkinlikPlanlamaApp\AkilliEtkinlikPlanlamaApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Repos\AkilliEtkinlikPlanlamaApp\AkilliEtkinlikPlanlamaApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Authorization/AdminEtkinlikDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXphdGlvblxBZG1pbkV0a2lubGlrRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Authorization/AdminEtkinlikListele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXphdGlvblxBZG1pbkV0a2lubGlrTGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Authorization/AdminGoruntule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXphdGlvblxBZG1pbkdvcnVudHVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Authorization/AdminSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXphdGlvblxBZG1pblNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Authorization/KullanicilarListe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXphdGlvblxLdWxsYW5pY2lsYXJMaXN0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Etkinlik/EtkinlikDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRraW5saWtcRXRraW5saWtEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Etkinlik/EtkinlikDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRraW5saWtcRXRraW5saWtEdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Etkinlik/EtkinlikGoruntule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRraW5saWtcRXRraW5saWtHb3J1bnR1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Etkinlik/EtkinlikOlustur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRraW5saWtcRXRraW5saWtPbHVzdHVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Etkinlik/EtkinlikSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRraW5saWtcRXRraW5saWtTaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Etkinlik/KatildigiEtkinlikler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRraW5saWtcS2F0aWxkaWdpRXRraW5saWtsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Etkinlik/OnerilenEtkinlik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRraW5saWtcT25lcmlsZW5FdGtpbmxpay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcQ29uZmlybUVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcR2lyaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/profil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFccHJvZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/ProfilGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcUHJvZmlsR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/PuanDetaylari.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcUHVhbkRldGF5bGFyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Kullanıcı/Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuxLFjxLFcU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/AkilliEtkinlikPlanlamaApp/AkilliEtkinlikPlanlamaApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pikq2nhj8j

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icllm\\Desktop\\yazlablar\\yazlab2\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9B589-19AD-4874-925A-73D3ABE0346B}|AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp.csproj|c:\\users\\icllm\\desktop\\yazlablar\\yazlab2\\220202033_220202093\\akillietkinlikplanlamaapp2\\akillietkinlikplanlamaapp\\akillietkinlikplanlamaapp\\views\\authorization\\kullanicilarliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC9B589-19AD-4874-925A-73D3ABE0346B}|AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp.csproj|solutionrelative:akillietkinlikplanlamaapp\\views\\authorization\\kullanicilarliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 452,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KullanicilarListe.cshtml",
+              "DocumentMoniker": "C:\\Users\\icllm\\Desktop\\yazlablar\\yazlab2\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\Views\\Authorization\\KullanicilarListe.cshtml",
+              "RelativeDocumentMoniker": "AkilliEtkinlikPlanlamaApp\\Views\\Authorization\\KullanicilarListe.cshtml",
+              "ToolTip": "C:\\Users\\icllm\\Desktop\\yazlablar\\yazlab2\\220202033_220202093\\AkilliEtkinlikPlanlamaApp2\\AkilliEtkinlikPlanlamaApp\\AkilliEtkinlikPlanlamaApp\\Views\\Authorization\\KullanicilarListe.cshtml",
+              "RelativeToolTip": "AkilliEtkinlikPlanlamaApp\\Views\\Authorization\\KullanicilarListe.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T19:21:40.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿@model AkilliEtkinlikPlanlamaApp.Models.Entities.ConfirmMail
+
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+
+
+<div class="container mt-5">
+    <h2 class="text-center">Hesap Onaylama</h2>
+    <form asp-action="ConfirmEmail" asp-controller="Kullanıcı" method="post" class="mt-3">
+        <div class="form-group">
+            <label>Mail adresinize gelen 6 haneli kodu giriniz:</label>
+            <input type="hidden" asp-for="id" value="@Model.id" />
+            <input type="text" asp-for="ConfirmCode" class="form-control" placeholder="Onay Kodunuz" />
+            <span asp-validation-for="ConfirmCode" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Hesabı Aktifleştir</button>
+    </form>
+</div>
+

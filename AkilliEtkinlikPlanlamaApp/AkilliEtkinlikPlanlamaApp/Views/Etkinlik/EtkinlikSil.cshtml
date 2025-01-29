@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Kullanıcı/Sidebar.cshtml";
+}
+@model AkilliEtkinlikPlanlamaApp.Models.Entities.Etkinlikler
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+<div class="container mt-5">
+    <h2>Etkinliği Sil</h2>
+    <div class="alert alert-warning">
+        <p><strong>@Model.EtkinlikAdi</strong> adlı etkinliği silmek istediğinizden emin misiniz?</p>
+    </div>
+    <form asp-action="EtkinlikSilConfirmed" method="post">
+        <input type="hidden" name="id" value="@Model.ID" />
+        <button type="submit" class="btn btn-danger">Evet, Sil</button>
+        <a href="@Url.Action("EtkinlikGoruntule", "Etkinlik")" class="btn btn-secondary">Vazgeç</a>
+    </form>
+</div>

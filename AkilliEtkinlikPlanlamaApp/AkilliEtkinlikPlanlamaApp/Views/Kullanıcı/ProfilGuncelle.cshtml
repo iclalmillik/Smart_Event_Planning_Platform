@@ -1,0 +1,92 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Kullanıcı/Sidebar.cshtml";
+}
+@model AkilliEtkinlikPlanlamaApp.Models.Dtos.ProfilGuncelleDto
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h2 class="text-center mb-4">Profilimi Güncelle</h2>
+            <div class="card shadow-sm p-4">
+                <form asp-action="ProfilGuncelle" method="post" enctype="multipart/form-data">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="Ad" class="form-label">Ad</label>
+                                <input type="text" class="form-control" id="Ad" name="Ad" value="@Model.Ad" required />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="Soyad" class="form-label">Soyad</label>
+                                <input type="text" class="form-control" id="Soyad" name="Soyad" value="@Model.Soyad" required />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="Email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" required />
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="Sifre" class="form-label">Şifre</label>
+                                <input type="password" class="form-control" id="Sifre" name="Sifre" value="@Model.Sifre" />
+                                <span asp-validation-for="Sifre" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="SifreOnay" class="form-label">Şifre Onay</label>
+                                <input type="password" class="form-control" id="SifreOnay" name="SifreOnay" value="@Model.SifreOnay" />
+                                <span asp-validation-for="SifreOnay" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="IlgiAlanlariID" class="form-label">İlgi Alanları</label>
+                        <select asp-for="IlgiAlanlariID" asp-items="ViewBag.IlgiAlanlari" class="form-select" required>
+                            <option value="">İlgi Alanları</option>
+                        </select>
+                        <span asp-validation-for="IlgiAlanlariID" class="text-danger"></span>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="KullaniciAdi" class="form-label">Kullanıcı Adı</label>
+                                <input type="text" class="form-control" id="KullaniciAdi" name="KullaniciAdi" value="@Model.KullaniciAdi" required />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="TelefonNumarasi" class="form-label">Telefon Numarası</label>
+                                <input type="text" class="form-control" id="TelefonNumarasi" name="TelefonNumarasi" value="@Model.TelefonNumarasi" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="Konum" class="form-label">Konum</label>
+                        <input type="text" class="form-control" id="Konum" name="Konum" value="@Model.Konum" />
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label for="ProfilFotografi" class="form-label">Profil Fotoğrafı</label>
+                        @if (!string.IsNullOrEmpty(Model.ProfilFotografiYolu))
+                        {
+                            <img src="@Model.ProfilFotografiYolu" alt="Profil Fotoğrafı" class="img-thumbnail mb-3" style="width: 150px; height: 150px; border-radius: 50%;" />
+                        }
+                        <input asp-for="ProfilFotografi" type="file" class="form-control" accept="image/*" />
+                        <span asp-validation-for="ProfilFotografi" class="text-danger"></span>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary mt-3">Güncelle</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

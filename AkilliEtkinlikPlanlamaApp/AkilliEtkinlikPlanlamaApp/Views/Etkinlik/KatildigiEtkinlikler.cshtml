@@ -1,0 +1,98 @@
+﻿@model IEnumerable<AkilliEtkinlikPlanlamaApp.Models.Entities.Etkinlikler>
+@{
+    Layout = "~/Views/Kullanıcı/Sidebar.cshtml";
+    
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+
+
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Katıldığınız Etkinlikler</h2>
+    <div class="row">
+        @foreach (var etkinlik in Model)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card shadow-sm">
+                    @if (!string.IsNullOrEmpty(etkinlik.EtkinlikFotoYolu))
+                    {
+                        <img src="@etkinlik.EtkinlikFotoYolu"
+                             alt="Etkinlik Fotoğrafı"
+                             class="rounded-circle"
+                             style="width: 100px; height: 100px; object-fit: cover;" />
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@etkinlik.EtkinlikAdi</h5>
+                        <p class="card-text">
+                            <strong>Kategori:</strong> @etkinlik.Kategori<br />
+                            <strong>Tarih:</strong> @etkinlik.Tarih.ToShortDateString()<br />
+                            <strong>Saat:</strong> @etkinlik.Saat<br />
+                            <strong>Konum:</strong> @etkinlik.Konum<br />
+                            <strong>Açıklama:</strong> @etkinlik.Aciklama
+                        </p>
+
+
+                      
+
+                        <!-- Yorumlar -->
+                        <h6 class="mt-4">Yorumlar</h6>
+                        @if (etkinlik.Mesajlar != null && etkinlik.Mesajlar.Any())
+                        {
+                            <ul class="list-group mb-3">
+                                @foreach (var yorum in etkinlik.Mesajlar)
+                                {
+                                    <li class="list-group-item">
+                                        <strong>@yorum.Gönderici.KullaniciAdi:</strong>
+                                        <p>@yorum.MesajMetni</p>
+                                        <small class="text-muted">
+                                            @(yorum.GonderimZamani.HasValue ? yorum.GonderimZamani.Value.ToString("g") : "Zaman belirtilmedi")
+                                        </small>
+
+                                    </li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <p class="text-muted">Bu etkinlik için henüz yorum yapılmadı.</p>
+                        }
+
+
+                        <!-- Yorum Yap -->
+                        <form asp-action="YorumYap" asp-controller="Etkinlik" method="post" class="mt-3">
+                            <input type="hidden" name="etkinlikID" value="@etkinlik.ID" />
+                            <div class="form-group">
+                                <textarea name="yorumMetni" class="form-control" rows="3" placeholder="Etkinlik hakkında yorum yapın..." required></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary mt-2">Gönder</button>
+                        </form>
+
+
+                        <!-- Ayrıl Butonu -->
+                        <form asp-action="EtkinliktenAyril" asp-controller="Etkinlik" method="post" class="mt-2">
+                            <input type="hidden" name="etkinlikID" value="@etkinlik.ID" />
+                            <button type="submit" class="btn btn-danger">Etkinlikten Ayrıl</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

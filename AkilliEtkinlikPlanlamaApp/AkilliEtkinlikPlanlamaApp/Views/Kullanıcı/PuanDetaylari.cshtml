@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Kullanıcı/Sidebar.cshtml";
+}
+@model IEnumerable<AkilliEtkinlikPlanlamaApp.Models.Entities.Puan>
+
+<h2>Puan Detaylarınız</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tarih</th>
+            <th>Puan</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var puan in Model)
+        {
+            <tr>
+                <td>@puan.KazanilanTarih?.ToShortDateString()</td>
+                <td>@puan.PuanDegeri</td>
+            </tr>
+        }
+    </tbody>
+</table>
